@@ -7,3 +7,6 @@ UI/UX redesign and usability testing for a Letterboxd-style media platform. Blue
 
 ### Additional Wireframe Explorations
 🔗 [Click through the exploratory wireframes](https://www.figma.com/design/6MmmvSvV4glNfmwlLRNXO5/Letterboxd-Archive-Wireframing?node-id=0-1&t=eCsblWrXqWg4HmCy-1)
+
+## License
+© 2026 Catherine Peng. This work is licensed under CC BY‑NC‑ND 4.0.
